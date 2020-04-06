@@ -14,7 +14,7 @@ namespace assignment1
 
             var path = Path.Combine(Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location)); //path is in /bin/debug/netcoreapp3.1
             path = Directory.GetParent(Directory.GetParent(Directory.GetParent(path).FullName).FullName).FullName; // for finding the integer.txt nedd to look at paretn directory
-            path = $@"{path}\integers.txt";
+            path = Path.Combine(path, "integers.txt");
             string[] lines = File.ReadAllLines(path, Encoding.UTF8);
 
             foreach (string line in lines)

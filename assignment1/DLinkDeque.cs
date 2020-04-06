@@ -56,6 +56,7 @@ namespace assignment1
                 Node next = current.next;
                 current.prev = current.next = null;
                 current.data = null;
+                current = next;
 
             }
             size = 0;
