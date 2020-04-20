@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "mini_mars_rover/1.0.0": {
+        "runtime": {
+          "mini_mars_rover.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "mini_mars_rover/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

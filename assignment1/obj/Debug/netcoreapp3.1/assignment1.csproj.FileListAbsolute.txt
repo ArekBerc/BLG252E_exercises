@@ -9,3 +9,14 @@ C:\Users\ArekBerc\Desktop\assignment1\obj\Debug\netcoreapp3.1\assignment1.Assemb
 C:\Users\ArekBerc\Desktop\assignment1\obj\Debug\netcoreapp3.1\assignment1.AssemblyInfo.cs
 C:\Users\ArekBerc\Desktop\assignment1\obj\Debug\netcoreapp3.1\assignment1.dll
 C:\Users\ArekBerc\Desktop\assignment1\obj\Debug\netcoreapp3.1\assignment1.pdb
+C:\Users\ArekBerc\Documents\GitHub\Rover_arm20\BLG252E_exercises\assignment1\bin\Debug\netcoreapp3.1\assignment1.exe
+C:\Users\ArekBerc\Documents\GitHub\Rover_arm20\BLG252E_exercises\assignment1\bin\Debug\netcoreapp3.1\assignment1.deps.json
+C:\Users\ArekBerc\Documents\GitHub\Rover_arm20\BLG252E_exercises\assignment1\bin\Debug\netcoreapp3.1\assignment1.runtimeconfig.json
+C:\Users\ArekBerc\Documents\GitHub\Rover_arm20\BLG252E_exercises\assignment1\bin\Debug\netcoreapp3.1\assignment1.runtimeconfig.dev.json
+C:\Users\ArekBerc\Documents\GitHub\Rover_arm20\BLG252E_exercises\assignment1\bin\Debug\netcoreapp3.1\assignment1.dll
+C:\Users\ArekBerc\Documents\GitHub\Rover_arm20\BLG252E_exercises\assignment1\bin\Debug\netcoreapp3.1\assignment1.pdb
+C:\Users\ArekBerc\Documents\GitHub\Rover_arm20\BLG252E_exercises\assignment1\obj\Debug\netcoreapp3.1\assignment1.csprojAssemblyReference.cache
+C:\Users\ArekBerc\Documents\GitHub\Rover_arm20\BLG252E_exercises\assignment1\obj\Debug\netcoreapp3.1\assignment1.AssemblyInfoInputs.cache
+C:\Users\ArekBerc\Documents\GitHub\Rover_arm20\BLG252E_exercises\assignment1\obj\Debug\netcoreapp3.1\assignment1.AssemblyInfo.cs
+C:\Users\ArekBerc\Documents\GitHub\Rover_arm20\BLG252E_exercises\assignment1\obj\Debug\netcoreapp3.1\assignment1.dll
+C:\Users\ArekBerc\Documents\GitHub\Rover_arm20\BLG252E_exercises\assignment1\obj\Debug\netcoreapp3.1\assignment1.pdb

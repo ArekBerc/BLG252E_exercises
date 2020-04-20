@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ArekBerc\\Documents\\GitHub\\Rover_arm20\\BLG252E_exercises\\assignment1\\assignment1.csproj": {}
+    "C:\\Users\\ArekBerc\\source\\repos\\mini_mars_rover\\mini_mars_rover\\mini_mars_rover.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ArekBerc\\Documents\\GitHub\\Rover_arm20\\BLG252E_exercises\\assignment1\\assignment1.csproj": {
+    "C:\\Users\\ArekBerc\\source\\repos\\mini_mars_rover\\mini_mars_rover\\mini_mars_rover.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ArekBerc\\Documents\\GitHub\\Rover_arm20\\BLG252E_exercises\\assignment1\\assignment1.csproj",
-        "projectName": "assignment1",
-        "projectPath": "C:\\Users\\ArekBerc\\Documents\\GitHub\\Rover_arm20\\BLG252E_exercises\\assignment1\\assignment1.csproj",
+        "projectUniqueName": "C:\\Users\\ArekBerc\\source\\repos\\mini_mars_rover\\mini_mars_rover\\mini_mars_rover.csproj",
+        "projectName": "mini_mars_rover",
+        "projectPath": "C:\\Users\\ArekBerc\\source\\repos\\mini_mars_rover\\mini_mars_rover\\mini_mars_rover.csproj",
         "packagesPath": "C:\\Users\\ArekBerc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ArekBerc\\Documents\\GitHub\\Rover_arm20\\BLG252E_exercises\\assignment1\\obj\\",
+        "outputPath": "C:\\Users\\ArekBerc\\source\\repos\\mini_mars_rover\\mini_mars_rover\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
