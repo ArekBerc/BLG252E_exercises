@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ArekBerc\\source\\repos\\mini_mars_rover\\mini_mars_rover\\mini_mars_rover.csproj": {}
+    "C:\\Users\\ArekBerc\\Documents\\GitHub\\Rover_arm20\\040190716_Project1\\mini_mars_rover\\mini_mars_rover\\mini_mars_rover.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ArekBerc\\source\\repos\\mini_mars_rover\\mini_mars_rover\\mini_mars_rover.csproj": {
+    "C:\\Users\\ArekBerc\\Documents\\GitHub\\Rover_arm20\\040190716_Project1\\mini_mars_rover\\mini_mars_rover\\mini_mars_rover.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ArekBerc\\source\\repos\\mini_mars_rover\\mini_mars_rover\\mini_mars_rover.csproj",
+        "projectUniqueName": "C:\\Users\\ArekBerc\\Documents\\GitHub\\Rover_arm20\\040190716_Project1\\mini_mars_rover\\mini_mars_rover\\mini_mars_rover.csproj",
         "projectName": "mini_mars_rover",
-        "projectPath": "C:\\Users\\ArekBerc\\source\\repos\\mini_mars_rover\\mini_mars_rover\\mini_mars_rover.csproj",
+        "projectPath": "C:\\Users\\ArekBerc\\Documents\\GitHub\\Rover_arm20\\040190716_Project1\\mini_mars_rover\\mini_mars_rover\\mini_mars_rover.csproj",
         "packagesPath": "C:\\Users\\ArekBerc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ArekBerc\\source\\repos\\mini_mars_rover\\mini_mars_rover\\obj\\",
+        "outputPath": "C:\\Users\\ArekBerc\\Documents\\GitHub\\Rover_arm20\\040190716_Project1\\mini_mars_rover\\mini_mars_rover\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

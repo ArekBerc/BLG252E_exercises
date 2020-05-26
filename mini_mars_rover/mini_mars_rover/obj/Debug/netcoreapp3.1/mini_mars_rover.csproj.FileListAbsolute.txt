@@ -9,3 +9,14 @@ C:\Users\ArekBerc\source\repos\mini_mars_rover\mini_mars_rover\obj\Debug\netcore
 C:\Users\ArekBerc\source\repos\mini_mars_rover\mini_mars_rover\obj\Debug\netcoreapp3.1\mini_mars_rover.AssemblyInfo.cs
 C:\Users\ArekBerc\source\repos\mini_mars_rover\mini_mars_rover\obj\Debug\netcoreapp3.1\mini_mars_rover.dll
 C:\Users\ArekBerc\source\repos\mini_mars_rover\mini_mars_rover\obj\Debug\netcoreapp3.1\mini_mars_rover.pdb
+C:\Users\ArekBerc\Documents\GitHub\Rover_arm20\040190716_Project1\mini_mars_rover\mini_mars_rover\bin\Debug\netcoreapp3.1\mini_mars_rover.exe
+C:\Users\ArekBerc\Documents\GitHub\Rover_arm20\040190716_Project1\mini_mars_rover\mini_mars_rover\bin\Debug\netcoreapp3.1\mini_mars_rover.deps.json
+C:\Users\ArekBerc\Documents\GitHub\Rover_arm20\040190716_Project1\mini_mars_rover\mini_mars_rover\bin\Debug\netcoreapp3.1\mini_mars_rover.runtimeconfig.json
+C:\Users\ArekBerc\Documents\GitHub\Rover_arm20\040190716_Project1\mini_mars_rover\mini_mars_rover\bin\Debug\netcoreapp3.1\mini_mars_rover.runtimeconfig.dev.json
+C:\Users\ArekBerc\Documents\GitHub\Rover_arm20\040190716_Project1\mini_mars_rover\mini_mars_rover\bin\Debug\netcoreapp3.1\mini_mars_rover.dll
+C:\Users\ArekBerc\Documents\GitHub\Rover_arm20\040190716_Project1\mini_mars_rover\mini_mars_rover\bin\Debug\netcoreapp3.1\mini_mars_rover.pdb
+C:\Users\ArekBerc\Documents\GitHub\Rover_arm20\040190716_Project1\mini_mars_rover\mini_mars_rover\obj\Debug\netcoreapp3.1\mini_mars_rover.csprojAssemblyReference.cache
+C:\Users\ArekBerc\Documents\GitHub\Rover_arm20\040190716_Project1\mini_mars_rover\mini_mars_rover\obj\Debug\netcoreapp3.1\mini_mars_rover.AssemblyInfoInputs.cache
+C:\Users\ArekBerc\Documents\GitHub\Rover_arm20\040190716_Project1\mini_mars_rover\mini_mars_rover\obj\Debug\netcoreapp3.1\mini_mars_rover.AssemblyInfo.cs
+C:\Users\ArekBerc\Documents\GitHub\Rover_arm20\040190716_Project1\mini_mars_rover\mini_mars_rover\obj\Debug\netcoreapp3.1\mini_mars_rover.dll
+C:\Users\ArekBerc\Documents\GitHub\Rover_arm20\040190716_Project1\mini_mars_rover\mini_mars_rover\obj\Debug\netcoreapp3.1\mini_mars_rover.pdb

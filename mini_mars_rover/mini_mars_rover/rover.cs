@@ -47,7 +47,7 @@ namespace mini_mars_rover
 
         }
 
-        public void moveForward()  // moving forward according to the orientation of the rover
+        public void moveForward(List<rover> rovers)  // moving forward according to the orientation of the rover
         {
             switch (Orientation.current.data)
             {
@@ -63,9 +63,32 @@ namespace mini_mars_rover
                 case "E":
                     poss[0]++;
                     break;
-                default:
-                    Console.WriteLine("Invalid");
-                    break;
+
+            }
+            for (int j = 0; j < rovers.Count-1; j++)
+            {
+
+                if (poss[0] == rovers[j].poss[0] && poss[1] == rovers[j].poss[1])// cannot collide to the other one
+                {
+                    
+                    switch (Orientation.current.data)
+                    {
+                        case "N":
+                            poss[1]--;
+                            break;
+                        case "S":
+                            poss[1]++;
+                            break;
+                        case "W":
+                            poss[0]++;
+                            break;
+                        case "E":
+                            poss[0]--;
+                            break;
+                    }
+                    Console.WriteLine($"Rover is now at ({poss[0]},{poss[1]}) and trying to collide another rover at ({rovers[j].poss[0]},{rovers[j].poss[1]}). Enter another pattern!");
+                    throw new Exception();
+                }
             }
         }
         public void changeOrientation(string data)  // changing orientation according to the input
@@ -84,7 +107,7 @@ namespace mini_mars_rover
             }
         }
 
-        public void takeAction(string[] pattern)
+        public void takeAction(string[] pattern, List<rover> rovers)
         {
 
            for (int i = 1; i < pattern.Length - 1; i++)
@@ -96,13 +119,17 @@ namespace mini_mars_rover
                 if (pattern[i] == "M")
                 {
                     // if rover is not exceeding the landed area
-                    if ((!(Orientation.current.data == "N" && poss[1] >= area[1])) && (!(Orientation.current.data == "S" && poss[1] <= 0)) && (!(Orientation.current.data == "E" && poss[0] >= area[0])) && (!(Orientation.current.data == "W" && poss[0] <= 0)))
+                    if ((!(Orientation.current.data == "N" && poss[1] >= (area[1]-1))) && (!(Orientation.current.data == "S" && poss[1] <= 0)) && (!(Orientation.current.data == "E" && poss[0] >= (area[0])-1)) && (!(Orientation.current.data == "W" && poss[0] <= 0)))
                     {
-                        moveForward();
+
+                        moveForward(rovers);
                     }
+
                     else
                     {
-                        Console.WriteLine("Rover is trying to exceed the area");
+
+                        Console.WriteLine($"Rover is now at ({poss[0]},{poss[1]}) and trying to exceed the area. Enter another movement pattern!");
+                        throw new Exception();
                     }
                     
                 }
@@ -118,7 +145,7 @@ namespace mini_mars_rover
         }
         public void report() // sending the current position and orientation data
         {
-            Console.WriteLine($"{poss[0]} {poss[1]} {Orientation.current.data}");
+            Console.WriteLine($"Movement report: Now rover is at {poss[0]} {poss[1]} {Orientation.current.data}");
         }
     }
 }
